@@ -94,7 +94,17 @@ through generative image models, with Groq-powered recommendations.
 Stack: Vite · Supabase · Groq API · Pollinations.AI · Netlify Functions
 Security: Server-side-only API keys with zero client-exposed secrets
 Status: Actively in development
-</details> <details>
+</details> 
+
+### DripIQ — AI Fashion Assistant
+
+AI-powered fashion app generating outfit visualizations with generative image models and Groq-powered recommendations.
+
+[Live Demo](YOUR_DRIPIQ_URL) · [Source Code](YOUR_DRIPIQ_REPOSITORY_URL)
+
+![DripIQ AI fashion assistant preview](./assets/dripiq-preview.webp)
+
+<details>
 <summary><strong>SnapFaceX — AI Face Analysis Tool</strong></summary>
 Live AI-powered face analysis platform combining MediaPipe FaceMesh landmark detection
 with LLM-generated feedback.
@@ -102,6 +112,14 @@ Stack: MediaPipe FaceMesh · Groq (Llama-.-B ) · GitHub OAuth · Netlify Functi
 Security: Server-side proxy for API-key protection and CSRF-protected OAuth
 Live: snapface.netlify.app
 </details>
+
+### SnapFaceX — AI Face Analysis Tool
+
+Live AI-powered face analysis platform combining MediaPipe FaceMesh landmark detection with LLM-generated feedback.
+
+[Live Demo](https://snapface2026.netlify.app ) · [Source Code](YOUR_SNAPFACEX_REPOSITORY_URL)
+
+![SnapFaceX face analysis preview](./assets/snapfacex-preview.webp)
 Contribution Snake
 <p align="center">
 <picture>
@@ -126,3 +144,17 @@ f?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
 </p> <div align="center">
 Build in silence, let the shipped product speak.
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/architecture-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/architecture-light.svg">
+  <img src="./assets/architecture-light.svg" alt="Application architecture overview" width="100%">
+</picture>
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/V3DANT-lab/V3DANT-lab/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/V3DANT-lab/V3DANT-lab/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/V3DANT-lab/V3DANT-lab/output/github-contribution-grid-snake.svg" alt="V3DANT-lab GitHub contribution snake" width="100%" loading="lazy">
+  </picture>
+</p>
