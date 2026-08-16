@@ -1,0 +1,15 @@
+{
+  "name": "v3dant-profile-assets",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Generates V3DANT-lab light/dark visual identity and animated contribution assets.",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "generate:identity": "python3 visual_identity.py",
+    "generate:contributions": "node generate.mjs",
+    "validate:previews": "node preview-test.mjs"
+  }
+}
