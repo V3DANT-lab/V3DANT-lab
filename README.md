@@ -20,7 +20,7 @@ Building projects from scratch, documenting the journey, and shipping practical 
 
 [![GitHub](https://img.shields.io/badge/GitHub-V3DANT--lab-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/V3DANT-lab)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-24292f?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio123v.netlify.app)
-[![Instagram](https://img.shields.io/badge/Instagram-v.edant__20-24292f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/v.edant_20)
+[![Instagram](https://img.shields.io/badge/Instagram-v.edant__20-24292f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itx_vedanx)
 [![Email](https://img.shields.io/badge/Email-Contact-24292f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wazevedant5@gmail.com)
 
 ```text
@@ -67,15 +67,15 @@ I'm a self-directed **full-stack developer and AI builder**, currently shipping 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,py,html,css&amp;theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,py,html,css&amp;theme=light">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,html,css&amp;theme=light" alt="JavaScript, TypeScript, Python, HTML, and CSS" loading="lazy">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,py,html,css,c,cpp&amp;theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,py,html,css,c,cpp&amp;theme=light">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,c,cpp,java&amp;theme=light" alt="JavaScript, TypeScript, Python, HTML, and CSS" loading="lazy">
   </picture>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vite,tailwind&amp;theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vite,tailwind&amp;theme=light">
-    <img src="https://skillicons.dev/icons?i=react,vite,tailwind&amp;theme=light" alt="React, Vite, and Tailwind CSS" loading="lazy">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vite,tailwind,notion,docker,postman,sublime&amp;theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vite,tailwind,notion&amp;theme=light">
+    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,notion,docker,postman,sublime&amp;theme=light" alt="React, Vite, Tailwind CSS, Notion,Docker,Nginx,Sublime,Postman" loading="lazy">
   </picture>
   <br>
   <picture>
@@ -85,9 +85,9 @@ I'm a self-directed **full-stack developer and AI builder**, currently shipping 
   </picture>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=netlify,git,github,vscode,vercel&amp;theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=netlify,git,github,vscode,vercel&amp;theme=light">
-    <img src="https://skillicons.dev/icons?i=netlify,git,github,vscode,vercel&amp;theme=light" alt="Netlify, Git, GitHub, VS Code, and Vercel" loading="lazy">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=netlify,git,github,vscode,vercel,gitlab,discord&amp;theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=netlify,git,github,vscode,vercel,gitlab,discord&amp;theme=light">
+    <img src="https://skillicons.dev/icons?i=netlify,git,github,vscode,vercel,discord&amp;theme=light" alt="Netlify, Git, GitHub, VS Code, Vercel,Gitlab,Discord" loading="lazy">
   </picture>
 </p>
 
