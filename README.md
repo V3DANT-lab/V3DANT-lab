@@ -62,51 +62,19 @@ I'm a self-directed **full-stack developer and AI builder**, currently shipping 
 
 - Security-first architecture, including remediation of exposed API keys
 
-## GitHub Statistics
-
-<p align="center">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg">
-    <img
-      src="./assets/github-stats-light.svg"
-      alt="Vedant's GitHub statistics"
-      width="100%"
-    >
-  </picture>
-</p>
-
 ## Tech Stack
 
-<!-- Change the version number below whenever you update an icon list.
-The version query prevents GitHub's image cache from showing an older stack. --> <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,py,html,css,c,cpp,java&amp;perline=8&amp;theme=dark&amp;v=20261027">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,py,html,css,c,cpp,java&amp;perline=8&amp;theme=light&amp;v=20261027">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,c,cpp,java&amp;perline=8&amp;theme=light&amp;v=20261027" alt="JavaScript, TypeScript, Python, HTML, CSS, C, C++, and Java icons">
-  </picture>
-    
+<!-- Update v=20261028 whenever you change the icon list. -->
+## Tech Stack
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vite,tailwind,notion,docker,postman,sublime&amp;perline=7&amp;theme=dark&amp;v=20261027">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vite,tailwind,notion,docker,postman,sublime&amp;perline=7&amp;theme=light&amp;v=20261027">
-    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,notion,docker,postman,sublime&amp;perline=7&amp;theme=light&amp;v=20261027" alt="React, Vite, Tailwind CSS, Notion, Docker, Postman, and Sublime Text icons">
-  </picture>
-    
+![JavaScript, TypeScript, Python, HTML, CSS, C, C++, and Java icons](https://skillicons.dev/icons?i=js,ts,py,html,css,c,cpp,java&perline=8&theme=dark&v=20261028 )
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,supabase,postgres&amp;perline=3&amp;theme=dark&amp;v=20261027">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,supabase,postgres&amp;perline=3&amp;theme=light&amp;v=20261027">
-    <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres&amp;perline=3&amp;theme=light&amp;v=20261027" alt="Node.js, Supabase, and PostgreSQL icons">
-  </picture>
-    
+![React, Vite, Tailwind CSS, Notion, Docker, Postman, and Sublime Text icons](https://skillicons.dev/icons?i=react,vite,tailwind,notion,docker,postman,sublime&perline=7&theme=dark&v=20261028 )
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=netlify,git,github,vscode,vercel,gitlab,discord&amp;perline=7&amp;theme=dark&amp;v=20261027">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=netlify,git,github,vscode,vercel,gitlab,discord&amp;perline=7&amp;theme=light&amp;v=20261027">
-    <img src="https://skillicons.dev/icons?i=netlify,git,github,vscode,vercel,gitlab,discord&amp;perline=7&amp;theme=light&amp;v=20261027" alt="Netlify, Git, GitHub, VS Code, Vercel, GitLab, and Discord icons">
-  </picture>
-</p>
+![Node.js, Supabase, and PostgreSQL icons](https://skillicons.dev/icons?i=nodejs,supabase,postgres&perline=3&theme=dark&v=20261028 )
+
+![Netlify, Git, GitHub, VS Code, Vercel, GitLab, and Discord icons](https://skillicons.dev/icons?i=netlify,git,github,vscode,vercel,gitlab,discord&perline=7&theme=dark&v=20261028 )
+
 
 ## Architecture Overview
 
