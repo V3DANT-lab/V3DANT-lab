@@ -62,7 +62,7 @@ I'm a self-directed **full-stack developer and AI builder**, currently shipping 
 
 - Security-first architecture, including remediation of exposed API keys
 
-## Tech Stack
+
 
 <!-- Update v=20261028 whenever you change the icon list. -->
 ## Tech Stack
