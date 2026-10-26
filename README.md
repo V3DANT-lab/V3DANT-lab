@@ -1,7 +1,7 @@
 <a href="https://github.com/V3DANT-lab/V3DANT-lab">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/visual-identity-scan-dark.gif">
-    <img alt="V3DANT-lab terminal-style visual identity with a looping scan line" src="./assets/visual-identity-scan-light.gif" width="100%" loading="lazy">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/git.gif">
+    <img alt="V3DANT-lab terminal-style visual identity with a looping scan line" src="./assets/git.gif" width="100%" loading="lazy">
   </picture>
 </a>
 
