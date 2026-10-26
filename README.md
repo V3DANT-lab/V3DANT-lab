@@ -78,44 +78,33 @@ I'm a self-directed **full-stack developer and AI builder**, currently shipping 
 
 ## Tech Stack
 
-<p align="center">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,py,html,css,c,cpp,java&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,py,html,css,c,cpp,java&theme=light">
-    <img
-      src="https://skillicons.dev/icons?i=js,ts,py,html,css,c,cpp,java&theme=light"
-      alt="JavaScript, TypeScript, Python, HTML, CSS, C, C++, and Java icons"
-    >
+<!-- Change the version number below whenever you update an icon list.
+The version query prevents GitHub's image cache from showing an older stack. --> <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,py,html,css,c,cpp,java&amp;perline=8&amp;theme=dark&amp;v=20261027">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,py,html,css,c,cpp,java&amp;perline=8&amp;theme=light&amp;v=20261027">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,c,cpp,java&amp;perline=8&amp;theme=light&amp;v=20261027" alt="JavaScript, TypeScript, Python, HTML, CSS, C, C++, and Java icons">
   </picture>
     
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vite,tailwind,notion,docker,postman,sublime&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vite,tailwind,notion,docker,postman,sublime&theme=light">
-    <img
-      src="https://skillicons.dev/icons?i=react,vite,tailwind,notion,docker,postman,sublime&theme=light"
-      alt="React, Vite, Tailwind CSS, Notion, Docker, Postman, and Sublime Text icons"
-    >
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vite,tailwind,notion,docker,postman,sublime&amp;perline=7&amp;theme=dark&amp;v=20261027">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vite,tailwind,notion,docker,postman,sublime&amp;perline=7&amp;theme=light&amp;v=20261027">
+    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,notion,docker,postman,sublime&amp;perline=7&amp;theme=light&amp;v=20261027" alt="React, Vite, Tailwind CSS, Notion, Docker, Postman, and Sublime Text icons">
   </picture>
     
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,supabase,postgres&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,supabase,postgres&theme=light">
-    <img
-      src="https://skillicons.dev/icons?i=nodejs,supabase,postgres&theme=light"
-      alt="Node.js, Supabase, and PostgreSQL icons"
-    >
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,supabase,postgres&amp;perline=3&amp;theme=dark&amp;v=20261027">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,supabase,postgres&amp;perline=3&amp;theme=light&amp;v=20261027">
+    <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres&amp;perline=3&amp;theme=light&amp;v=20261027" alt="Node.js, Supabase, and PostgreSQL icons">
   </picture>
     
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=netlify,git,github,vscode,vercel,gitlab,discord&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=netlify,git,github,vscode,vercel,gitlab,discord&theme=light">
-    <img
-      src="https://skillicons.dev/icons?i=netlify,git,github,vscode,vercel,gitlab,discord&theme=light"
-      alt="Netlify, Git, GitHub, VS Code, Vercel, GitLab, and Discord icons"
-    >
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=netlify,git,github,vscode,vercel,gitlab,discord&amp;perline=7&amp;theme=dark&amp;v=20261027">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=netlify,git,github,vscode,vercel,gitlab,discord&amp;perline=7&amp;theme=light&amp;v=20261027">
+    <img src="https://skillicons.dev/icons?i=netlify,git,github,vscode,vercel,gitlab,discord&amp;perline=7&amp;theme=light&amp;v=20261027" alt="Netlify, Git, GitHub, VS Code, Vercel, GitLab, and Discord icons">
   </picture>
 </p>
 
