@@ -103,7 +103,7 @@ AI-powered fashion app generating outfit visualizations across head, mid, and lo
 **Security:** Server-side-only API keys with zero client-exposed secrets
 **Status:** Actively in development
 
-</details> <details>
+</details> <details open>
 <summary><strong>SnapFaceX — AI Face Analysis Tool</strong></summary>
 
 Live AI-powered face analysis platform combining MediaPipe FaceMesh landmark detection with LLM-generated feedback.
@@ -115,6 +115,11 @@ Live AI-powered face analysis platform combining MediaPipe FaceMesh landmark det
 **Live:** [snapface2026.netlify.app](https://snapface2026.netlify.app)
 
 </details> <details open>
+<summary><strong>Aria - AI VIRTUAL PARTNER(V1)</strong></summary>
+    
+    ![Aria - Virtual Partner preview](./assets/aria.webp)
+    
+</details><details open>
 <summary><strong>Musix — AI Mood-Based Music Discovery</strong></summary>
 
 Mood-based music discovery experience that helps users find song recommendations matching how they feel, without endless scrolling.
