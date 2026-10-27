@@ -116,8 +116,16 @@ Live AI-powered face analysis platform combining MediaPipe FaceMesh landmark det
 
 </details> <details open>
 <summary><strong>Aria - AI VIRTUAL PARTNER(V1)</strong></summary>
-    
-    ![Aria - Virtual Partner preview](./assets/aria.webp)
+
+Aria — AI brought to life through particles, voice, and intelligence.
+
+![Aria - Virtual Partner preview](./assets/aria.webp)
+
+**Overview**: Aria is an AI-powered virtual companion featuring a procedurally generated 3D particle portrait with approximately 28,000 magenta-colored particles.
+
+**Technology**: Integrates MediaPipe facial tracking, offline speech recognition, Google Gemini AI, text-to-speech, lip-sync animation, and multilingual interaction.
+
+**Key Features**: Real-time visual reactions, voice conversations, animated facial expressions, persistent conversation memory, and privacy-conscious processing with graceful offline fallbacks.
     
 </details><details open>
 <summary><strong>Musix — AI Mood-Based Music Discovery</strong></summary>
