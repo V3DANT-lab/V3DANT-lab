@@ -3,7 +3,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="./assets/git.gif">
     <source media="(prefers-color-scheme: light)" srcset="./assets/git.gif">
     <img
-      src="./assets/git.gif"
+      src="./assets/r.gif"
       alt="V3DANT-lab terminal-style visual identity with a looping scan line"
       width="100%"
     >
