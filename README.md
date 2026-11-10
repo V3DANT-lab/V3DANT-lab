@@ -35,6 +35,13 @@ Building projects from scratch, documenting the journey, and shipping practical 
 vedant@devos ~ % ./profile.sh --live
 ```
 
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="./assets/graph.gif">
+<source media="(prefers-color-scheme: light)" srcset="./assets/graph.gif">
+
+</picture>
+
 <details open>
 <summary><strong>System profile</strong></summary>
 
