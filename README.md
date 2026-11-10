@@ -37,8 +37,8 @@ vedant@devos ~ % ./profile.sh --live
 
 <picture>
 
-<source media="(prefers-color-scheme: dark)" srcset="./assets/graph.gif">
-<source media="(prefers-color-scheme: light)" srcset="./assets/graph.gif">
+<source media="(prefers-color-scheme: dark)" srcset="./assets/file_0000000088dc8207ac28978e809a72ea.gif">
+<source media="(prefers-color-scheme: light)" srcset="./assets/file_0000000088dc8207ac28978e809a72ea.gif">
 
 </picture>
 
