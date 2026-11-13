@@ -59,6 +59,14 @@ vedant@devos ~ % ./profile.sh --live
 
 </details>
 
+<p align="center">
+  <img
+    src="./assets/github_analytics_1920x810.gif"
+    alt="V3DANT-lab GitHub analytics graph with 1W, 1M, 3M and 1Y ranges"
+    width="100%"
+  >
+</p>
+
 ## About Me
 
 I'm a self-directed **full-stack developer and AI builder**, currently shipping real, production-grade web applications. My focus is secure, AI-integrated systems—not tutorials, but deployed products.
