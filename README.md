@@ -60,7 +60,7 @@ vedant@devos ~ % ./profile.sh --live
 </details>
 
   <img
-    src="./assets/github_analytics_wide_2560x810.gif"
+    src="./assets/github_graph_dashboard_1920x819_slow.gif"
     alt="V3DANT-lab GitHub analytics graph with 1W, 1M, 3M and 1Y ranges"
     width="100%">
     
