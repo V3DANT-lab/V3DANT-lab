@@ -12,11 +12,20 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=1000&color=0891B2&center=true&vCenter=true&width=700&height=46&lines=Full-Stack+Engineer+%F0%9F%92%BB;AI+Builder+%F0%9F%A4%96;Python+Student+%F0%9F%90%8D;Shipping+real+products+%F0%9F%9A%80" alt="Full-Stack Engineer, AI Builder, Python Student">
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1200&color=00F5C4&background=0D1117&center=true&vCenter=true&width=620&height=44&lines=%24+whoami+%E2%86%92+vedant_waze;%24+now+building+%E2%86%92+DripIQ%2C+AI+fashion+assistant;%24+stack+%E2%86%92+React+%C2%B7+Node+%C2%B7+Supabase+%C2%B7+Groq;%24+shipped+%E2%86%92+SnapFaceX%2C+Aria%2C+Musix;%24+echo+%22Build+in+silence%22" alt="Terminal-style intro: now building DripIQ">
+<a href="https://github.com/V3DANT-lab"><img src="https://cdn.simpleicons.org/github/A855F7" height="38" width="38" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/v.edant_20"><img src="https://cdn.simpleicons.org/instagram/F43F5E" height="38" width="38" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:wazevedant5@gmail.com"><img src="https://cdn.simpleicons.org/gmail/0891B2" height="38" width="38" alt="Email"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://portfolio123v.netlify.app"><img src="https://cdn.simpleicons.org/netlify/14B8A6" height="38" width="38" alt="Portfolio"></a>
 <br><br>
 
-<img src="https://img.shields.io/badge/Status-Building_%C2%B7_Learning_%C2%B7_Shipping-0F766E?style=flat-square&labelColor=0D1117" alt="Status">
-<img src="https://img.shields.io/badge/Based_in-Maharashtra%2C_India-BE185D?style=flat-square&labelColor=0D1117" alt="Based in Maharashtra, India">
+<img src="https://img.shields.io/github/followers/V3DANT-lab?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=F43F5E&color=9F1239" alt="Followers">
+<img src="https://img.shields.io/github/stars/V3DANT-lab/V3DANT-lab?style=for-the-badge&label=STARS&labelColor=A855F7&color=6B21A8" alt="Stars">
+<img src="https://img.shields.io/github/last-commit/V3DANT-lab/V3DANT-lab?style=for-the-badge&label=LAST+COMMIT&labelColor=0891B2&color=155E75" alt="Last commit">
+<img src="https://img.shields.io/badge/PROJECTS-4_FEATURED-115E59?style=for-the-badge&labelColor=0D9488" alt="Featured projects">
+<img src="https://komarev.com/ghpvc/?username=V3DANT-lab&label=PROFILE+VIEWS&color=D97706&style=for-the-badge" alt="Profile views">
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1200&color=00F5C4&background=0D1117&center=true&vCenter=true&width=620&height=44&lines=%24+whoami+%E2%86%92+vedant_waze;%24+now+building+%E2%86%92+DripIQ%2C+AI+fashion+assistant;%24+stack+%E2%86%92+React+%C2%B7+Node+%C2%B7+Supabase+%C2%B7+Groq;%24+shipped+%E2%86%92+SnapFaceX%2C+Aria%2C+Musix;%24+echo+%22Build+in+silence%22" alt="Terminal-style intro: now building DripIQ">
 
 </div>
 <p align="center">
