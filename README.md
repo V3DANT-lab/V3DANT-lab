@@ -1,14 +1,25 @@
-<a href="https://github.com/V3DANT-lab/V3DANT-lab">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/r.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/r.gif">
-    <img
-      src="./assets/r.gif"
-      alt="V3DANT-lab terminal-style visual identity with a looping scan line"
-      width="100%"
-    >
-  </picture>
-</a> <p align="center">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=6D28D9&height=140" width="100%" alt="">
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=900&color=F43F5E&center=true&vCenter=true&width=640&height=50&lines=%F0%9F%91%8B+Hey+there!;%F0%9F%99%8F+Namaste!;%F0%9F%A7%AA+Welcome+to+my+lab" alt="Hey there, Namaste, Welcome to my lab">
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=44&duration=2200&pause=1500&color=A855F7&center=true&vCenter=true&width=640&height=80&repeat=false&letterSpacing=3px&lines=I%27m+Vedant+Waze" alt="I'm Vedant Waze">
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=1000&color=0891B2&center=true&vCenter=true&width=700&height=46&lines=Full-Stack+Engineer+%F0%9F%92%BB;AI+Builder+%F0%9F%A4%96;Python+Student+%F0%9F%90%8D;Shipping+real+products+%F0%9F%9A%80" alt="Full-Stack Engineer, AI Builder, Python Student">
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1200&color=00F5C4&background=0D1117&center=true&vCenter=true&width=620&height=44&lines=%24+whoami+%E2%86%92+vedant_waze;%24+now+building+%E2%86%92+DripIQ%2C+AI+fashion+assistant;%24+stack+%E2%86%92+React+%C2%B7+Node+%C2%B7+Supabase+%C2%B7+Groq;%24+shipped+%E2%86%92+SnapFaceX%2C+Aria%2C+Musix;%24+echo+%22Build+in+silence%22" alt="Terminal-style intro: now building DripIQ">
+<br><br>
+
+<img src="https://img.shields.io/badge/Status-Building_%C2%B7_Learning_%C2%B7_Shipping-0F766E?style=flat-square&labelColor=0D1117" alt="Status">
+<img src="https://img.shields.io/badge/Based_in-Maharashtra%2C_India-BE185D?style=flat-square&labelColor=0D1117" alt="Based in Maharashtra, India">
+
+</div>
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dist/v3dant-contribution-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./dist/v3dant-contribution-light.svg">
