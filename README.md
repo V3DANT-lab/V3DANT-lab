@@ -28,6 +28,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1200&color=00F5C4&background=0D1117&center=true&vCenter=true&width=620&height=44&lines=%24+whoami+%E2%86%92+vedant_waze;%24+now+building+%E2%86%92+DripIQ%2C+AI+fashion+assistant;%24+stack+%E2%86%92+React+%C2%B7+Node+%C2%B7+Supabase+%C2%B7+Groq;%24+shipped+%E2%86%92+SnapFaceX%2C+Aria%2C+Musix;%24+echo+%22Build+in+silence%22" alt="Terminal-style intro: now building DripIQ">
 
 </div>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dist/v3dant-contribution-dark.svg">
@@ -40,16 +41,13 @@
   </picture>
 </p>
 
-# Vedant Waze
+<div align="center">
 
-**Full-Stack Engineer · AI Builder · Python Student**
+### I build AI products that actually ship, and I keep their secrets safe.
 
-Building projects from scratch, documenting the journey, and shipping practical AI-powered products.
+**Not tutorials. Deployed apps with real users, real APIs, and real security.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-V3DANT--lab-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/V3DANT-lab)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-24292f?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio123v.netlify.app)
-[![Instagram](https://img.shields.io/badge/Instagram-v.edant__20-24292f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itx_vedanx)
-[![Email](https://img.shields.io/badge/Email-Contact-24292f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wazevedant5@gmail.com)
+</div>
 
 ```
 vedant@devos ~ % ./profile.sh --live
@@ -62,54 +60,63 @@ vedant@devos ~ % ./profile.sh --live
 
 </picture>
 
+<br>
+
 <details open>
-<summary><strong>System profile</strong></summary>
+<summary><strong>🧬 System profile</strong></summary>
+<br>
 
-**Subject:** Vedant Waze
-**Role:** Full-Stack Engineer · AI Builder
-**Origin:** Maharashtra, India
-**Status:** Building · Learning · Shipping
-**Toolchain:** VS Code · Git · Netlify · Supabase
-
-**Core languages:** JavaScript · TypeScript · Python · HTML · CSS
-**Frontend:** React · Vite · Tailwind CSS
-**Backend:** Node.js · Netlify Functions
-**Data:** Supabase · PostgreSQL
-**Infrastructure:** Netlify · Vercel · Git
+| | |
+|---|---|
+| 👤 **Subject** | Vedant Waze |
+| 🎯 **Role** | Full-Stack Engineer · AI Builder |
+| 📍 **Origin** | Maharashtra, India |
+| ⚡ **Status** | Building · Learning · Shipping |
+| 🛠️ **Toolchain** | VS Code · Git · Netlify · Supabase |
+| 💬 **Languages** | JavaScript · TypeScript · Python · HTML · CSS |
+| 🎨 **Frontend** | React · Vite · Tailwind CSS |
+| ⚙️ **Backend** | Node.js · Netlify Functions |
+| 🗄️ **Data** | Supabase · PostgreSQL |
+| ☁️ **Infra** | Netlify · Vercel · Git |
 
 </details>
 
-  <img
-    src="./assets/github_graph_dashboard_1920x819_slow.gif"
-    alt="V3DANT-lab GitHub analytics graph with 1W, 1M, 3M and 1Y ranges"
-    width="100%">
-    
+<br>
 
-## About Me
+<img
+  src="./assets/github_graph_dashboard_1920x819_slow.gif"
+  alt="V3DANT-lab GitHub analytics graph with 1W, 1M, 3M and 1Y ranges"
+  width="100%">
 
-I'm a self-directed **full-stack developer and AI builder**, currently shipping real, production-grade web applications. My focus is secure, AI-integrated systems—not tutorials, but deployed products.
+## 👨‍💻 About Me
 
-- Full-stack engineering with a product mindset
+I'm a self-directed **full-stack developer and AI builder** shipping production-grade web applications. My focus is secure, AI-integrated systems, from the first commit to the live deploy.
 
-- Practical LLM and generative AI integration with Groq and Pollinations.AI
+- 🧱 **Product mindset:** I design, build, and ship the whole thing end to end
+- 🤖 **Applied AI:** practical LLM and generative AI integration with Groq, Gemini, and Pollinations.AI
+- 🔐 **Security-first:** server-side-only API keys, CSRF-protected OAuth, and I've personally remediated exposed keys
+- 🌱 **Always leveling up:** deepening my Python while building in public
 
-- Security-first architecture, including remediation of exposed API keys
+## 🎯 Right Now
 
-
+| 🔨 Building | 📚 Learning | 🚀 Shipped |
+|:---|:---|:---|
+| **DripIQ**, an AI fashion assistant | Python, going deeper | **SnapFaceX** · **Aria** · **Musix** |
 
 <!-- Update v=20261028 whenever you change the icon list. -->
-## Tech Stack
+## 🧰 Tech Stack
 
-![JavaScript, TypeScript, Python, HTML, CSS, C, C++, and Java icons](https://skillicons.dev/icons?i=js,ts,py,html,css,c,cpp,java&perline=8&theme=dark&v=20261028 )
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,c,cpp,java&perline=8&theme=dark&v=20261028" alt="JavaScript, TypeScript, Python, HTML, CSS, C, C++, and Java icons">
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,notion,docker,postman,sublime&perline=7&theme=dark&v=20261028" alt="React, Vite, Tailwind CSS, Notion, Docker, Postman, and Sublime Text icons">
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres&perline=3&theme=dark&v=20261028" alt="Node.js, Supabase, and PostgreSQL icons">
+  <br>
+  <img src="https://skillicons.dev/icons?i=netlify,git,github,vscode,vercel,gitlab,discord&perline=7&theme=dark&v=20261028" alt="Netlify, Git, GitHub, VS Code, Vercel, GitLab, and Discord icons">
+</p>
 
-![React, Vite, Tailwind CSS, Notion, Docker, Postman, and Sublime Text icons](https://skillicons.dev/icons?i=react,vite,tailwind,notion,docker,postman,sublime&perline=7&theme=dark&v=20261028 )
-
-![Node.js, Supabase, and PostgreSQL icons](https://skillicons.dev/icons?i=nodejs,supabase,postgres&perline=3&theme=dark&v=20261028 )
-
-![Netlify, Git, GitHub, VS Code, Vercel, GitLab, and Discord icons](https://skillicons.dev/icons?i=netlify,git,github,vscode,vercel,gitlab,discord&perline=7&theme=dark&v=20261028 )
-
-
-## Architecture Overview
+## 🏗️ Architecture Overview
 
 <p align="center">
 <picture>
@@ -123,65 +130,82 @@ I'm a self-directed **full-stack developer and AI builder**, currently shipping 
   </picture>
 </p>
 
-## Featured Projects
+## 🚀 Featured Projects
 
-<details open>
-<summary><strong>DripIQ — AI Fashion Assistant</strong></summary>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/dripiq-outfit-preview.webp" width="100%" alt="DripIQ AI outfit recommendation preview">
+      <h3>👗 DripIQ</h3>
+      <b>AI Fashion Assistant</b><br>
+      Generates outfit visualizations across head, mid, and lower slots with generative image models, plus Groq-powered style recommendations.<br><br>
+      <code>Vite</code> <code>Supabase</code> <code>Groq</code> <code>Pollinations.AI</code> <code>Netlify Functions</code><br><br>
+      🔐 Server-side-only API keys, zero client-exposed secrets<br>
+      🟢 <b>Actively in development</b>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/snapfacex-preview.webp" width="100%" alt="SnapFaceX AI face analysis preview">
+      <h3>🧠 SnapFaceX</h3>
+      <b>AI Face Analysis Tool</b><br>
+      Live platform combining MediaPipe FaceMesh landmark detection with LLM-generated feedback.<br><br>
+      <code>MediaPipe FaceMesh</code> <code>Groq · Llama-3.3-70B</code> <code>GitHub OAuth</code> <code>Netlify Functions</code><br><br>
+      🔐 Server-side proxy for key protection and CSRF-protected OAuth<br>
+      <a href="https://snapface2026.netlify.app"><img src="https://img.shields.io/badge/LIVE-DEMO-0D9488?style=for-the-badge" alt="SnapFaceX live demo"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/aria.webp" width="100%" alt="Aria AI virtual partner preview">
+      <h3>💜 Aria</h3>
+      <b>AI Virtual Partner (V1)</b><br>
+      AI brought to life through particles, voice, and intelligence, with a procedurally generated 3D portrait of about 28,000 magenta particles.<br><br>
+      <code>MediaPipe</code> <code>Google Gemini</code> <code>Speech Recognition</code> <code>TTS + Lip-sync</code><br><br>
+      ✨ Real-time visual reactions, voice conversations, animated expressions, persistent memory, multilingual, with graceful offline fallbacks
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/musix-preview.webp" width="100%" alt="Musix AI mood-based music discovery preview">
+      <h3>🎧 Musix</h3>
+      <b>AI Mood-Based Music Discovery</b><br>
+      Find songs that match how you feel, without endless scrolling.<br><br>
+      <code>Mood selection</code> <code>Recommendation cards</code> <code>AI-assisted discovery</code> <code>Responsive</code><br><br>
+      <a href="https://musix2026.netlify.app"><img src="https://img.shields.io/badge/LIVE-DEMO-0D9488?style=for-the-badge" alt="Musix live demo"></a>
+    </td>
+  </tr>
+</table>
 
-AI-powered fashion app generating outfit visualizations across head, mid, and lower slots through generative image models, with Groq-powered recommendations.
+## 🧭 How I Build
 
-![DripIQ AI outfit recommendation preview](./assets/dripiq-outfit-preview.webp)
+| | Principle | In practice |
+|:-:|:--|:--|
+| 🔐 | **Secure by default** | API keys stay server-side, behind Netlify Functions |
+| 🚢 | **Ship, then refine** | Every project goes live, then gets iterated on |
+| 🧩 | **End to end** | UI, API, database, auth, and deploy, all owned |
+| 📓 | **Build in public** | Documenting the journey as I go |
 
-**Stack:** Vite · Supabase · Groq API · Pollinations.AI · Netlify Functions
-**Security:** Server-side-only API keys with zero client-exposed secrets
-**Status:** Actively in development
-
-</details> <details open>
-<summary><strong>SnapFaceX — AI Face Analysis Tool</strong></summary>
-
-Live AI-powered face analysis platform combining MediaPipe FaceMesh landmark detection with LLM-generated feedback.
-
-![SnapFaceX AI face analysis preview](./assets/snapfacex-preview.webp)
-
-**Stack:** MediaPipe FaceMesh · Groq (Llama-3.3-70B) · GitHub OAuth · Netlify Functions
-**Security:** Server-side proxy for API-key protection and CSRF-protected OAuth
-**Live:** [snapface2026.netlify.app](https://snapface2026.netlify.app)
-
-</details> <details open>
-<summary><strong>Aria - AI VIRTUAL PARTNER(V1)</strong></summary>
-
-Aria — AI brought to life through particles, voice, and intelligence.
-
-![Aria - Virtual Partner preview](./assets/aria.webp)
-
-**Overview**: Aria is an AI-powered virtual companion featuring a procedurally generated 3D particle portrait with approximately 28,000 magenta-colored particles.
-
-**Technology**: Integrates MediaPipe facial tracking, offline speech recognition, Google Gemini AI, text-to-speech, lip-sync animation, and multilingual interaction.
-
-**Key Features**: Real-time visual reactions, voice conversations, animated facial expressions, persistent conversation memory, and privacy-conscious processing with graceful offline fallbacks.
-    
-</details><details open>
-<summary><strong>Musix — AI Mood-Based Music Discovery</strong></summary>
-
-Mood-based music discovery experience that helps users find song recommendations matching how they feel, without endless scrolling.
-
-![Musix AI mood-based music discovery preview](./assets/musix-preview.webp)
-
-[Live Demo](https://musix2026.netlify.app)
-
-**Highlights:** Mood selection · Recommendation cards · AI-assisted music discovery · Responsive web experience
-
-</details>
-
-## Connect
+## 📊 GitHub Stats
 
 <p align="center">
-<a href="https://github.com/V3DANT-lab"><img src="https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=V3DANT-lab&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=F43F5E&text_color=C9D1D9&include_all_commits=true" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V3DANT-lab&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top languages">
+  <br>
+  <img src="https://streak-stats.demolab.com?user=V3DANT-lab&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=F43F5E&currStreakLabel=00F5C4" alt="GitHub streak">
+</p>
+
+## 🤝 Let's Build Something
+
+Have an idea, a collaboration, or an AI project that needs shipping? I'd love to hear about it.
+
+<p align="center">
+  <a href="https://github.com/V3DANT-lab"><img src="https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://instagram.com/v.edant_20"><img src="https://img.shields.io/badge/Instagram-24292f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://portfolio123v.netlify.app"><img src="https://img.shields.io/badge/Portfolio-24292f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:wazevedant5@gmail.com"><img src="https://img.shields.io/badge/Email-24292f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p> <div align="center">
+</p>
+
+<div align="center">
 
 *Build in silence, let the shipped product speak.*
+
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=6D28D9&height=120" width="100%" alt="">
 
 </div>
