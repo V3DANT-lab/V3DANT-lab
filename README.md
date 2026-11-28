@@ -53,39 +53,33 @@ vedant@devos ~ % ./profile.sh --live
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D0E,50:3D7F7A,100:0B0D0E&height=2" width="100%" alt="">
 
-<table>
-  <tr>
-    <td width="40%" valign="top">
-      <details open>
-      <summary><strong>🛡️ System profile</strong></summary>
-      <br>
-      <table>
-        <tr><td>👤 <b>Subject</b></td><td>Vedant Waze</td></tr>
-        <tr><td>🎯 <b>Role</b></td><td>Full-Stack Engineer · AI Builder</td></tr>
-        <tr><td>📍 <b>Origin</b></td><td>Maharashtra, India</td></tr>
-        <tr><td>⚡ <b>Status</b></td><td>Building · Learning · Shipping</td></tr>
-        <tr><td>🛠️ <b>Toolchain</b></td><td>VS Code · Git · Netlify · Supabase</td></tr>
-        <tr><td>💬 <b>Languages</b></td><td>JavaScript · TypeScript · Python · HTML · CSS</td></tr>
-        <tr><td>🎨 <b>Frontend</b></td><td>React · Vite · Tailwind CSS</td></tr>
-        <tr><td>⚙️ <b>Backend</b></td><td>Node.js · Netlify Functions</td></tr>
-        <tr><td>🗄️ <b>Data</b></td><td>Supabase · PostgreSQL</td></tr>
-        <tr><td>☁️ <b>Infra</b></td><td>Netlify · Vercel · Git</td></tr>
-      </table>
-      </details>
-    </td>
-    <td width="60%" valign="top">
-      <h2>👨‍💻 About Me</h2>
-      I'm a self-directed <b>full-stack developer and AI builder</b> shipping production-grade web applications. My focus is secure, AI-integrated systems, from the first commit to the live deploy.
-      <br><br>
-      <ul>
-        <li>🧱 <b>Product mindset:</b> I design, build, and ship the whole thing end to end</li>
-        <li>🤖 <b>Applied AI:</b> practical LLM and generative AI integration with Groq, Gemini, and Pollinations.AI</li>
-        <li>🔐 <b>Security-first:</b> server-side-only API keys, CSRF-protected OAuth, and I've personally remediated exposed keys</li>
-        <li>🌱 <b>Always leveling up:</b> deepening my Python while building in public</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<details open>
+<summary><strong>🛡️ System profile</strong></summary>
+<br>
+
+| | |
+|---|---|
+| 👤 **Subject** | Vedant Waze |
+| 🎯 **Role** | Full-Stack Engineer · AI Builder |
+| 📍 **Origin** | Maharashtra, India |
+| ⚡ **Status** | Building · Learning · Shipping |
+| 🛠️ **Toolchain** | VS Code · Git · Netlify · Supabase |
+| 💬 **Languages** | JavaScript · TypeScript · Python · HTML · CSS |
+| 🎨 **Frontend** | React · Vite · Tailwind CSS |
+| ⚙️ **Backend** | Node.js · Netlify Functions |
+| 🗄️ **Data** | Supabase · PostgreSQL |
+| ☁️ **Infra** | Netlify · Vercel · Git |
+
+</details>
+
+## 👨‍💻 About Me
+
+I'm a self-directed **full-stack developer and AI builder** shipping production-grade web applications. My focus is secure, AI-integrated systems, from the first commit to the live deploy.
+
+- 🧱 **Product mindset:** I design, build, and ship the whole thing end to end
+- 🤖 **Applied AI:** practical LLM and generative AI integration with Groq, Gemini, and Pollinations.AI
+- 🔐 **Security-first:** server-side-only API keys, CSRF-protected OAuth, and I've personally remediated exposed keys
+- 🌱 **Always leveling up:** deepening my Python while building in public
 
 ## 🎯 Right Now
 
@@ -135,58 +129,62 @@ vedant@devos ~ % ./profile.sh --live
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="middle">
-      <img src="./assets/dripiq-outfit-preview.webp" width="100%" alt="DripIQ AI outfit recommendation preview">
-    </td>
-    <td width="50%" valign="middle">
-      <h3>👗 DripIQ</h3>
-      <b>AI Fashion Assistant</b><br>
-      Generates outfit visualizations across head, mid, and lower slots with generative image models, plus Groq-powered style recommendations.<br><br>
-      <code>Vite</code> <code>Supabase</code> <code>Groq</code> <code>Pollinations.AI</code> <code>Netlify Functions</code><br><br>
-      🔐 Server-side-only API keys, zero client-exposed secrets<br>
-      🟢 <b>Actively in development</b>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="middle">
-      <h3>🧠 SnapFaceX</h3>
-      <b>AI Face Analysis Tool</b><br>
-      Live platform combining MediaPipe FaceMesh landmark detection with LLM-generated feedback.<br><br>
-      <code>MediaPipe FaceMesh</code> <code>Groq · Llama-3.3-70B</code> <code>GitHub OAuth</code> <code>Netlify Functions</code><br><br>
-      🔐 Server-side proxy for key protection and CSRF-protected OAuth<br>
-      <a href="https://snapface2026.netlify.app"><img src="https://img.shields.io/badge/LIVE-DEMO-B58A1B?style=for-the-badge" alt="SnapFaceX live demo"></a>
-    </td>
-    <td width="50%" valign="middle">
-      <img src="./assets/snapfacex-preview.webp" width="100%" alt="SnapFaceX AI face analysis preview">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="middle">
-      <img src="./assets/aria.webp" width="100%" alt="Aria AI virtual partner preview">
-    </td>
-    <td width="50%" valign="middle">
-      <h3>💜 Aria</h3>
-      <b>AI Virtual Partner (V1)</b><br>
-      AI brought to life through particles, voice, and intelligence, with a procedurally generated 3D portrait of about 28,000 magenta particles.<br><br>
-      <code>MediaPipe</code> <code>Google Gemini</code> <code>Speech Recognition</code> <code>TTS + Lip-sync</code><br><br>
-      ✨ Real-time visual reactions, voice conversations, animated expressions, persistent memory, multilingual, with graceful offline fallbacks
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="middle">
-      <h3>🎧 Musix</h3>
-      <b>AI Mood-Based Music Discovery</b><br>
-      Find songs that match how you feel, without endless scrolling.<br><br>
-      <code>Mood selection</code> <code>Recommendation cards</code> <code>AI-assisted discovery</code> <code>Responsive</code><br><br>
-      <a href="https://musix2026.netlify.app"><img src="https://img.shields.io/badge/LIVE-DEMO-B58A1B?style=for-the-badge" alt="Musix live demo"></a>
-    </td>
-    <td width="50%" valign="middle">
-      <img src="./assets/musix-preview.webp" width="100%" alt="Musix AI mood-based music discovery preview">
-    </td>
-  </tr>
-</table>
+<img src="./assets/dripiq-outfit-preview.webp" width="100%" alt="DripIQ AI outfit recommendation preview">
+
+### 👗 DripIQ
+
+**AI Fashion Assistant**
+
+Generates outfit visualizations across head, mid, and lower slots with generative image models, plus Groq-powered style recommendations.
+
+`Vite` `Supabase` `Groq` `Pollinations.AI` `Netlify Functions`
+
+🔐 Server-side-only API keys, zero client-exposed secrets<br>
+🟢 **Actively in development**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D0E,50:3D7F7A,100:0B0D0E&height=2" width="100%" alt="">
+
+<img src="./assets/snapfacex-preview.webp" width="100%" alt="SnapFaceX AI face analysis preview">
+
+### 🧠 SnapFaceX
+
+**AI Face Analysis Tool**
+
+Live platform combining MediaPipe FaceMesh landmark detection with LLM-generated feedback.
+
+`MediaPipe FaceMesh` `Groq · Llama-3.3-70B` `GitHub OAuth` `Netlify Functions`
+
+🔐 Server-side proxy for key protection and CSRF-protected OAuth
+
+<a href="https://snapface2026.netlify.app"><img src="https://img.shields.io/badge/LIVE-DEMO-B58A1B?style=for-the-badge" alt="SnapFaceX live demo"></a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D0E,50:3D7F7A,100:0B0D0E&height=2" width="100%" alt="">
+
+<img src="./assets/aria.webp" width="100%" alt="Aria AI virtual partner preview">
+
+### 💜 Aria
+
+**AI Virtual Partner (V1)**
+
+AI brought to life through particles, voice, and intelligence, with a procedurally generated 3D portrait of about 28,000 magenta particles.
+
+`MediaPipe` `Google Gemini` `Speech Recognition` `TTS + Lip-sync`
+
+✨ Real-time visual reactions, voice conversations, animated expressions, persistent memory, multilingual, with graceful offline fallbacks
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D0E,50:3D7F7A,100:0B0D0E&height=2" width="100%" alt="">
+
+<img src="./assets/musix-preview.webp" width="100%" alt="Musix AI mood-based music discovery preview">
+
+### 🎧 Musix
+
+**AI Mood-Based Music Discovery**
+
+Find songs that match how you feel, without endless scrolling.
+
+`Mood selection` `Recommendation cards` `AI-assisted discovery` `Responsive`
+
+<a href="https://musix2026.netlify.app"><img src="https://img.shields.io/badge/LIVE-DEMO-B58A1B?style=for-the-badge" alt="Musix live demo"></a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D0E,50:3D7F7A,100:0B0D0E&height=2" width="100%" alt="">
 
@@ -197,28 +195,6 @@ vedant@devos ~ % ./profile.sh --live
   <br>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=V3DANT-lab&show_icons=true&border_color=2A4F4B&bg_color=0B0D0E&title_color=22D3B0&icon_color=E2B33A&text_color=C9D1D3&include_all_commits=true" alt="GitHub stats">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V3DANT-lab&layout=compact&border_color=2A4F4B&bg_color=0B0D0E&title_color=22D3B0&text_color=C9D1D3" alt="Top languages">
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D0E,50:3D7F7A,100:0B0D0E&height=2" width="100%" alt="">
-
-## 🤝 Let's Build Something
-
-Have an idea, a collaboration, or an AI project that needs shipping? I'd love to hear about it.
-
-<p align="center">
-  <a href="https://github.com/V3DANT-lab"><img src="https://img.shields.io/badge/GitHub-23282B?style=for-the-badge&logo=github&logoColor=B8C2C6" alt="GitHub"></a>
-  <a href="https://instagram.com/v.edant_20"><img src="https://img.shields.io/badge/Instagram-23282B?style=for-the-badge&logo=instagram&logoColor=22D3B0" alt="Instagram"></a>
-  <a href="https://portfolio123v.netlify.app"><img src="https://img.shields.io/badge/Portfolio-23282B?style=for-the-badge&logo=vercel&logoColor=4ADE9A" alt="Portfolio"></a>
-  <a href="mailto:wazevedant5@gmail.com"><img src="https://img.shields.io/badge/Email-23282B?style=for-the-badge&logo=gmail&logoColor=E2B33A" alt="Email"></a>
-</p>
-
-<div align="center">
-
-*Build in silence, let the shipped product speak.*
-
-<img src="https://capsule-render.vercel.app/api?section=footer&type=slice&color=0:3D7F7A,45:1E5B45,100:0B0D0E&height=120" width="100%" alt="">
-
-</div>e=V3DANT-lab&layout=compact&border_color=2A4F4B&bg_color=0B0D0E&title_color=22D3B0&text_color=C9D1D3" alt="Top languages">
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D0E,50:3D7F7A,100:0B0D0E&height=2" width="100%" alt="">
