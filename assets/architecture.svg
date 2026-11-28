@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760">
+<rect width="1400" height="760" rx="28" fill="#0b100f"/>
+<text x="700" y="78" text-anchor="middle" fill="#e7f4ed" font-family="Arial" font-size="36" font-weight="700">V3DANT-LAB · AI PRODUCT ARCHITECTURE</text>
+<g font-family="Arial" text-anchor="middle">
+<rect x="80" y="170" width="330" height="150" rx="18" fill="#14251f" stroke="#42d6a4" stroke-width="2"/>
+<text x="245" y="225" fill="#42d6a4" font-size="27" font-weight="700">CLIENT</text><text x="245" y="270" fill="#d5e4dc" font-size="20">React · Vite · UI</text>
+<rect x="535" y="170" width="330" height="150" rx="18" fill="#14251f" stroke="#42d6a4" stroke-width="2"/>
+<text x="700" y="225" fill="#42d6a4" font-size="27" font-weight="700">SERVER LAYER</text><text x="700" y="270" fill="#d5e4dc" font-size="20">Node · Netlify Functions</text>
+<rect x="990" y="170" width="330" height="150" rx="18" fill="#14251f" stroke="#42d6a4" stroke-width="2"/>
+<text x="1155" y="225" fill="#42d6a4" font-size="27" font-weight="700">AI SERVICES</text><text x="1155" y="270" fill="#d5e4dc" font-size="20">Groq · Gemini · Vision</text>
+<path d="M410 245 H535 M865 245 H990" stroke="#8be7bc" stroke-width="4" fill="none"/><path d="M520 233 L535 245 L520 257 M975 233 L990 245 L975 257" stroke="#8be7bc" stroke-width="4" fill="none"/>
+<rect x="315" y="470" width="330" height="150" rx="18" fill="#14251f" stroke="#e2b33a" stroke-width="2"/>
+<text x="480" y="525" fill="#e2b33a" font-size="27" font-weight="700">DATA</text><text x="480" y="570" fill="#d5e4dc" font-size="20">Supabase · PostgreSQL</text>
+<rect x="755" y="470" width="330" height="150" rx="18" fill="#14251f" stroke="#e2b33a" stroke-width="2"/>
+<text x="920" y="525" fill="#e2b33a" font-size="27" font-weight="700">DEPLOYMENT</text><text x="920" y="570" fill="#d5e4dc" font-size="20">Netlify · Vercel · GitHub</text>
+<path d="M700 320 V390 H480 V470 M700 390 H920 V470" stroke="#8be7bc" stroke-width="3" fill="none"/>
+</g><text x="700" y="700" text-anchor="middle" fill="#91a99d" font-family="monospace" font-size="19">Keep secrets server-side · Validate inputs · Ship incrementally</text></svg>
