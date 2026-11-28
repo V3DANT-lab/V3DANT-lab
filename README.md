@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=21&letterSpacing=1px&duration=2600&pause=1000&color=00FF00&center=true&vCenter=true&width=820&height=44&repeat=false&lines=I+build+AI+products+that+actually+ship%2C+and+I+keep+their+secrets+safe." alt="I build AI products that actually ship, and I keep their secrets safe.">
+<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=21&letterSpacing=1px&duration=2600&pause=1000&color=00FF00&center=true&vCenter=true&width=820&height=44&repeat=true&lines=Hi%2C+I%27m+Vedant+Waze+%F0%9F%91%8B;Building+AI+products+that+ship+%F0%9F%9A%80;Full-Stack+Engineer+%C2%B7+AI+Builder;Security-first+development+%F0%9F%94%90;React+%C2%B7+Node+%C2%B7+Supabase+%C2%B7+Groq;Building+in+public+%F0%9F%93%A2" alt="Vedant Waze typing animation">
 
 **Not tutorials. Deployed apps with real users, real APIs, and real security.**
 
