@@ -3,13 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?section=header&type=slice&color=0:0B0D0E,55:1E5B45,100:3D7F7A&height=200" width="100%" alt="">
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=900&color=4FA89F&center=true&vCenter=true&width=640&height=50&lines=%F0%9F%91%8B+Hey+there!;%F0%9F%99%8F+Namaste!;%F0%9F%A7%AA+Welcome+to+my+lab" alt="Hey there, Namaste, Welcome to my lab">
+<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=500&size=20&letterSpacing=2px&duration=2500&pause=900&color=4FA89F&center=true&vCenter=true&width=640&height=40&lines=%F0%9F%91%8B+Hey+there!;%F0%9F%99%8F+Namaste!;%F0%9F%A7%AA+Welcome+to+my+lab" alt="Hey there, Namaste, Welcome to my lab">
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=44&duration=2200&pause=1500&color=22D3B0&center=true&vCenter=true&width=640&height=80&repeat=false&letterSpacing=3px&lines=I%27m+Vedant+Waze" alt="I'm Vedant Waze">
+<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=46&duration=2200&pause=1500&color=22D3B0&center=true&vCenter=true&width=700&height=72&repeat=false&letterSpacing=5px&lines=I%27m+Vedant+Waze" alt="I'm Vedant Waze">
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=1000&color=E2B33A&center=true&vCenter=true&width=700&height=46&lines=Full-Stack+Engineer+%F0%9F%92%BB;AI+Builder+%F0%9F%A4%96;Python+Student+%F0%9F%90%8D;Shipping+real+products+%F0%9F%9A%80" alt="Full-Stack Engineer, AI Builder, Python Student">
+<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=22&letterSpacing=1px&duration=2200&pause=1000&color=E2B33A&center=true&vCenter=true&width=700&height=40&lines=Full-Stack+Engineer+%F0%9F%92%BB;AI+Builder+%F0%9F%A4%96;Python+Student+%F0%9F%90%8D;Shipping+real+products+%F0%9F%9A%80" alt="Full-Stack Engineer, AI Builder, Python Student">
 <br><br>
 
 <a href="https://github.com/V3DANT-lab"><img src="https://cdn.simpleicons.org/github/B8C2C6" height="38" width="38" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,7 +28,7 @@
 <img src="https://komarev.com/ghpvc/?username=V3DANT-lab&label=PROFILE+VIEWS&color=2E7D5B&style=for-the-badge" alt="Profile views">
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1200&color=4ADE9A&background=0B0D0E&center=true&vCenter=true&width=620&height=44&lines=%24+whoami+%E2%86%92+vedant_waze;%24+now+building+%E2%86%92+DripIQ%2C+AI+fashion+assistant;%24+stack+%E2%86%92+React+%C2%B7+Node+%C2%B7+Supabase+%C2%B7+Groq;%24+shipped+%E2%86%92+SnapFaceX%2C+Aria%2C+Musix;%24+echo+%22Build+in+silence%22" alt="Terminal-style intro: now building DripIQ">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1200&color=4ADE9A&background=0B0D0E&center=true&vCenter=true&width=620&height=44&lines=%24+whoami+%E2%86%92+vedant_waze;%24+now+building+%E2%86%92+DripIQ%2C+AI+fashion+assistant;%24+stack+%E2%86%92+React+%C2%B7+Node+%C2%B7+Supabase+%C2%B7+Groq;%24+shipped+%E2%86%92+SnapFaceX%2C+Aria%2C+Musix;%24+echo+%22Build+in+silence%22" alt="Terminal-style intro: now building DripIQ">
 
 </div>
 
@@ -36,7 +36,7 @@
 
 <div align="center">
 
-### I build AI products that actually ship, and I keep their secrets safe.
+<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=21&letterSpacing=1px&duration=2600&pause=1000&color=7FB5AE&center=true&vCenter=true&width=820&height=44&repeat=false&lines=I+build+AI+products+that+actually+ship%2C+and+I+keep+their+secrets+safe." alt="I build AI products that actually ship, and I keep their secrets safe.">
 
 **Not tutorials. Deployed apps with real users, real APIs, and real security.**
 
@@ -158,10 +158,10 @@ vedant@devos ~ % ./profile.sh --live
 
 <table>
   <tr>
-    <td width="40%" valign="middle">
+    <td width="50%" valign="middle">
       <img src="./assets/dripiq-outfit-preview.webp" width="100%" alt="DripIQ AI outfit recommendation preview">
     </td>
-    <td width="60%" valign="top">
+    <td width="50%" valign="middle">
       <h3>👗 DripIQ</h3>
       <b>AI Fashion Assistant</b><br>
       Generates outfit visualizations across head, mid, and lower slots with generative image models, plus Groq-powered style recommendations.<br><br>
@@ -171,7 +171,7 @@ vedant@devos ~ % ./profile.sh --live
     </td>
   </tr>
   <tr>
-    <td width="60%" valign="top">
+    <td width="50%" valign="middle">
       <h3>🧠 SnapFaceX</h3>
       <b>AI Face Analysis Tool</b><br>
       Live platform combining MediaPipe FaceMesh landmark detection with LLM-generated feedback.<br><br>
@@ -179,15 +179,15 @@ vedant@devos ~ % ./profile.sh --live
       🔐 Server-side proxy for key protection and CSRF-protected OAuth<br>
       <a href="https://snapface2026.netlify.app"><img src="https://img.shields.io/badge/LIVE-DEMO-B58A1B?style=for-the-badge" alt="SnapFaceX live demo"></a>
     </td>
-    <td width="40%" valign="middle">
+    <td width="50%" valign="middle">
       <img src="./assets/snapfacex-preview.webp" width="100%" alt="SnapFaceX AI face analysis preview">
     </td>
   </tr>
   <tr>
-    <td width="40%" valign="middle">
+    <td width="50%" valign="middle">
       <img src="./assets/aria.webp" width="100%" alt="Aria AI virtual partner preview">
     </td>
-    <td width="60%" valign="top">
+    <td width="50%" valign="middle">
       <h3>💜 Aria</h3>
       <b>AI Virtual Partner (V1)</b><br>
       AI brought to life through particles, voice, and intelligence, with a procedurally generated 3D portrait of about 28,000 magenta particles.<br><br>
@@ -196,14 +196,14 @@ vedant@devos ~ % ./profile.sh --live
     </td>
   </tr>
   <tr>
-    <td width="60%" valign="top">
+    <td width="50%" valign="middle">
       <h3>🎧 Musix</h3>
       <b>AI Mood-Based Music Discovery</b><br>
       Find songs that match how you feel, without endless scrolling.<br><br>
       <code>Mood selection</code> <code>Recommendation cards</code> <code>AI-assisted discovery</code> <code>Responsive</code><br><br>
       <a href="https://musix2026.netlify.app"><img src="https://img.shields.io/badge/LIVE-DEMO-B58A1B?style=for-the-badge" alt="Musix live demo"></a>
     </td>
-    <td width="40%" valign="middle">
+    <td width="50%" valign="middle">
       <img src="./assets/musix-preview.webp" width="100%" alt="Musix AI mood-based music discovery preview">
     </td>
   </tr>
