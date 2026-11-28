@@ -61,14 +61,13 @@ vedant@devos ~ % ./profile.sh --live
   width="100%">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D0E,50:3D7F7A,100:0B0D0E&height=2" width="100%" alt="">
-
 <details open>
 <summary><strong>🛡️ System profile</strong></summary>
 <br>
 
 <table>
   <tr>
-    <td width="72%" valign="top">
+    <td width="65%" valign="top">
 
 | | |
 |---|---|
@@ -83,11 +82,16 @@ vedant@devos ~ % ./profile.sh --live
 | 🗄️ **Data** | Supabase · PostgreSQL |
 | ☁️ **Infra** | Netlify · Vercel · Git |
 
-</td>
-    <td width="28%" valign="top" align="center">
-      <img src="./assets/63dd66752e304e7b2c16f3c730311c03.jpg" width="100%" alt="It's all in your head — glitch portrait">
-      <br>
-      <sub><i>It's all in your head.</i></sub>
+</td> <td width="35%" valign="top" align="center">
+      <img
+        src="./assets/63dd66752e304e7b2c16f3c730311c03.jpg"
+        width="100%"
+        style="max-width:320px; border-radius:10px; border:1px solid #2A4F4B;"
+        alt="It's all in your head — glitch portrait">
+      <br><br>
+      <p style="font-family:'JetBrains Mono',monospace; font-size:18px; font-weight:700; letter-spacing:2px; color:#3FB950; text-transform:uppercase; margin:0; text-shadow:0 0 8px #3FB95099;">
+        It's all in your head
+      </p>
     </td>
   </tr>
 </table>
