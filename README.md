@@ -129,62 +129,46 @@ I'm a self-directed **full-stack developer and AI builder** shipping production-
 
 ## 🚀 Featured Projects
 
-<img src="./assets/dripiq-outfit-preview.webp" width="100%" alt="DripIQ AI outfit recommendation preview">
-
-### 👗 DripIQ
-
-**AI Fashion Assistant**
-
-Generates outfit visualizations across head, mid, and lower slots with generative image models, plus Groq-powered style recommendations.
-
-`Vite` `Supabase` `Groq` `Pollinations.AI` `Netlify Functions`
-
-🔐 Server-side-only API keys, zero client-exposed secrets<br>
-🟢 **Actively in development**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D0E,50:3D7F7A,100:0B0D0E&height=2" width="100%" alt="">
-
-<img src="./assets/snapfacex-preview.webp" width="100%" alt="SnapFaceX AI face analysis preview">
-
-### 🧠 SnapFaceX
-
-**AI Face Analysis Tool**
-
-Live platform combining MediaPipe FaceMesh landmark detection with LLM-generated feedback.
-
-`MediaPipe FaceMesh` `Groq · Llama-3.3-70B` `GitHub OAuth` `Netlify Functions`
-
-🔐 Server-side proxy for key protection and CSRF-protected OAuth
-
-<a href="https://snapface2026.netlify.app"><img src="https://img.shields.io/badge/LIVE-DEMO-B58A1B?style=for-the-badge" alt="SnapFaceX live demo"></a>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D0E,50:3D7F7A,100:0B0D0E&height=2" width="100%" alt="">
-
-<img src="./assets/aria.webp" width="100%" alt="Aria AI virtual partner preview">
-
-### 💜 Aria
-
-**AI Virtual Partner (V1)**
-
-AI brought to life through particles, voice, and intelligence, with a procedurally generated 3D portrait of about 28,000 magenta particles.
-
-`MediaPipe` `Google Gemini` `Speech Recognition` `TTS + Lip-sync`
-
-✨ Real-time visual reactions, voice conversations, animated expressions, persistent memory, multilingual, with graceful offline fallbacks
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D0E,50:3D7F7A,100:0B0D0E&height=2" width="100%" alt="">
-
-<img src="./assets/musix-preview.webp" width="100%" alt="Musix AI mood-based music discovery preview">
-
-### 🎧 Musix
-
-**AI Mood-Based Music Discovery**
-
-Find songs that match how you feel, without endless scrolling.
-
-`Mood selection` `Recommendation cards` `AI-assisted discovery` `Responsive`
-
-<a href="https://musix2026.netlify.app"><img src="https://img.shields.io/badge/LIVE-DEMO-B58A1B?style=for-the-badge" alt="Musix live demo"></a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/dripiq-outfit-preview.webp" width="100%" alt="DripIQ AI outfit recommendation preview">
+      <h3>👗 DripIQ</h3>
+      <b>AI Fashion Assistant</b><br>
+      Generates outfit visualizations across head, mid, and lower slots with generative image models, plus Groq-powered style recommendations.<br><br>
+      <code>Vite</code> <code>Supabase</code> <code>Groq</code> <code>Pollinations.AI</code> <code>Netlify Functions</code><br><br>
+      🔐 Server-side-only API keys, zero client-exposed secrets<br>
+      🟢 <b>Actively in development</b>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/snapfacex-preview.webp" width="100%" alt="SnapFaceX AI face analysis preview">
+      <h3>🧠 SnapFaceX</h3>
+      <b>AI Face Analysis Tool</b><br>
+      Live platform combining MediaPipe FaceMesh landmark detection with LLM-generated feedback.<br><br>
+      <code>MediaPipe FaceMesh</code> <code>Groq · Llama-3.3-70B</code> <code>GitHub OAuth</code> <code>Netlify Functions</code><br><br>
+      🔐 Server-side proxy for key protection and CSRF-protected OAuth<br>
+      <a href="https://snapface2026.netlify.app"><img src="https://img.shields.io/badge/LIVE-DEMO-B58A1B?style=for-the-badge" alt="SnapFaceX live demo"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/aria.webp" width="100%" alt="Aria AI virtual partner preview">
+      <h3>💜 Aria</h3>
+      <b>AI Virtual Partner (V1)</b><br>
+      AI brought to life through particles, voice, and intelligence, with a procedurally generated 3D portrait of about 28,000 magenta particles.<br><br>
+      <code>MediaPipe</code> <code>Google Gemini</code> <code>Speech Recognition</code> <code>TTS + Lip-sync</code><br><br>
+      ✨ Real-time visual reactions, voice conversations, animated expressions, persistent memory, multilingual, with graceful offline fallbacks
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/musix-preview.webp" width="100%" alt="Musix AI mood-based music discovery preview">
+      <h3>🎧 Musix</h3>
+      <b>AI Mood-Based Music Discovery</b><br>
+      Find songs that match how you feel, without endless scrolling.<br><br>
+      <code>Mood selection</code> <code>Recommendation cards</code> <code>AI-assisted discovery</code> <code>Responsive</code><br><br>
+      <a href="https://musix2026.netlify.app"><img src="https://img.shields.io/badge/LIVE-DEMO-B58A1B?style=for-the-badge" alt="Musix live demo"></a>
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D0E,50:3D7F7A,100:0B0D0E&height=2" width="100%" alt="">
 
