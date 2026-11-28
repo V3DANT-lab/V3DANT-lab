@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=6D28D9&height=140" width="100%" alt="">
+<img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=green&height=140" width="100%" alt="">
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=900&color=F43F5E&center=true&vCenter=true&width=640&height=50&lines=%F0%9F%91%8B+Hey+there!;%F0%9F%99%8F+Namaste!;%F0%9F%A7%AA+Welcome+to+my+lab" alt="Hey there, Namaste, Welcome to my lab">
