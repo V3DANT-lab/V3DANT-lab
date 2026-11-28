@@ -1,8 +1,5 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Hey there! Namaste! Welcome to my lab. I'm Vedant Waze. Full-Stack Engineer, AI Builder, Python Student, Shipping real products. GitHub, Instagram, Email and Portfolio icons. Terminal: whoami → vedant_waze; now building → DripIQ, AI fashion assistant; stack → React · Node · Supabase · Groq; shipped → SnapFaceX, Aria, Musix; echo &quot;Build in silence&quot;">
-<br><br>
-
 <img src="https://img.shields.io/github/followers/V3DANT-lab?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=1E5B45&color=0F2A22" alt="Followers">
 <img src="https://img.shields.io/github/stars/V3DANT-lab/V3DANT-lab?style=for-the-badge&label=STARS&labelColor=3D7F7A&color=1B3A38" alt="Stars">
 <img src="https://img.shields.io/github/last-commit/V3DANT-lab/V3DANT-lab?style=for-the-badge&label=LAST+COMMIT&labelColor=B58A1B&color=3B2F0B" alt="Last commit">
@@ -15,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=21&letterSpacing=1px&duration=2600&pause=1000&color=7FB5AE&center=true&vCenter=true&width=820&height=44&repeat=false&lines=I+build+AI+products+that+actually+ship%2C+and+I+keep+their+secrets+safe." alt="I build AI products that actually ship, and I keep their secrets safe.">
+<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=21&letterSpacing=1px&duration=2600&pause=1000&color=00FF00&center=true&vCenter=true&width=820&height=44&repeat=false&lines=I+build+AI+products+that+actually+ship%2C+and+I+keep+their+secrets+safe." alt="I build AI products that actually ship, and I keep their secrets safe.">
 
 **Not tutorials. Deployed apps with real users, real APIs, and real security.**
 
