@@ -66,6 +66,10 @@ vedant@devos ~ % ./profile.sh --live
 <summary><strong>🛡️ System profile</strong></summary>
 <br>
 
+<table>
+  <tr>
+    <td width="72%" valign="top">
+
 | | |
 |---|---|
 | 👤 **Subject** | Vedant Waze |
@@ -79,8 +83,16 @@ vedant@devos ~ % ./profile.sh --live
 | 🗄️ **Data** | Supabase · PostgreSQL |
 | ☁️ **Infra** | Netlify · Vercel · Git |
 
-</details>
+</td>
+    <td width="28%" valign="top" align="center">
+      <img src="./assets/file_0000000052ec81fd93e3ff723e529221.jpg" width="100%" alt="It's all in your head — glitch portrait">
+      <br>
+      <sub><i>It's all in your head.</i></sub>
+    </td>
+  </tr>
+</table>
 
+</details>
 ## 👨‍💻 About Me
 
 I'm a self-directed **full-stack developer and AI builder** shipping production-grade web applications. My focus is secure, AI-integrated systems, from the first commit to the live deploy.
