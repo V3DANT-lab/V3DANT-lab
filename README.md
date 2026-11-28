@@ -28,6 +28,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1200&color=00F5C4&background=0D1117&center=true&vCenter=true&width=620&height=44&lines=%24+whoami+%E2%86%92+vedant_waze;%24+now+building+%E2%86%92+DripIQ%2C+AI+fashion+assistant;%24+stack+%E2%86%92+React+%C2%B7+Node+%C2%B7+Supabase+%C2%B7+Groq;%24+shipped+%E2%86%92+SnapFaceX%2C+Aria%2C+Musix;%24+echo+%22Build+in+silence%22" alt="Terminal-style intro: now building DripIQ">
 
 </div>
+
+
 ```
 vedant@devos ~ % ./profile.sh --live
 ```
