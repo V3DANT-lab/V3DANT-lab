@@ -91,6 +91,7 @@ vedant@devos ~ % ./profile.sh --live
       <br><br>
       <p style="font-family:'JetBrains Mono',monospace; font-size:18px; font-weight:700; letter-spacing:2px; color:#3FB950; text-transform:uppercase; margin:0; text-shadow:0 0 8px #3FB95099;">
         It's all in your head
+        ~V3D△NT W△ZE
       </p>
     </td>
   </tr>
