@@ -1,34 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?section=header&type=slice&color=0:0B0D0E,55:1E5B45,100:3D7F7A&height=200" width="100%" alt="">
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=500&size=20&letterSpacing=2px&duration=2500&pause=900&color=4FA89F&center=true&vCenter=true&width=640&height=40&lines=%F0%9F%91%8B+Hey+there!;%F0%9F%99%8F+Namaste!;%F0%9F%A7%AA+Welcome+to+my+lab" alt="Hey there, Namaste, Welcome to my lab">
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=46&duration=2200&pause=1500&color=22D3B0&center=true&vCenter=true&width=700&height=72&repeat=false&letterSpacing=5px&lines=I%27m+Vedant+Waze" alt="I'm Vedant Waze">
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=22&letterSpacing=1px&duration=2200&pause=1000&color=E2B33A&center=true&vCenter=true&width=700&height=40&lines=Full-Stack+Engineer+%F0%9F%92%BB;AI+Builder+%F0%9F%A4%96;Python+Student+%F0%9F%90%8D;Shipping+real+products+%F0%9F%9A%80" alt="Full-Stack Engineer, AI Builder, Python Student">
+<img src="./assets/hero.gif" width="100%" alt="Hey there! Namaste! Welcome to my lab. I'm Vedant Waze. Full-Stack Engineer, AI Builder, Python Student, Shipping real products. GitHub, Instagram, Email and Portfolio icons. Terminal: whoami → vedant_waze; now building → DripIQ, AI fashion assistant; stack → React · Node · Supabase · Groq; shipped → SnapFaceX, Aria, Musix; echo &quot;Build in silence&quot;">
 <br><br>
-
-<a href="https://github.com/V3DANT-lab"><img src="https://cdn.simpleicons.org/github/B8C2C6" height="38" width="38" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/v.edant_20"><img src="https://cdn.simpleicons.org/instagram/22D3B0" height="38" width="38" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:wazevedant5@gmail.com"><img src="https://cdn.simpleicons.org/gmail/E2B33A" height="38" width="38" alt="Email"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://portfolio123v.netlify.app"><img src="https://cdn.simpleicons.org/netlify/4FA89F" height="38" width="38" alt="Portfolio"></a>
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D0E,50:3D7F7A,100:0B0D0E&height=2" width="100%" alt="">
-<br>
 
 <img src="https://img.shields.io/github/followers/V3DANT-lab?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=1E5B45&color=0F2A22" alt="Followers">
 <img src="https://img.shields.io/github/stars/V3DANT-lab/V3DANT-lab?style=for-the-badge&label=STARS&labelColor=3D7F7A&color=1B3A38" alt="Stars">
 <img src="https://img.shields.io/github/last-commit/V3DANT-lab/V3DANT-lab?style=for-the-badge&label=LAST+COMMIT&labelColor=B58A1B&color=3B2F0B" alt="Last commit">
 <img src="https://img.shields.io/badge/PROJECTS-4_FEATURED-127A68?style=for-the-badge&labelColor=23282B" alt="Featured projects">
 <img src="https://komarev.com/ghpvc/?username=V3DANT-lab&label=PROFILE+VIEWS&color=2E7D5B&style=for-the-badge" alt="Profile views">
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1200&color=4ADE9A&background=0B0D0E&center=true&vCenter=true&width=620&height=44&lines=%24+whoami+%E2%86%92+vedant_waze;%24+now+building+%E2%86%92+DripIQ%2C+AI+fashion+assistant;%24+stack+%E2%86%92+React+%C2%B7+Node+%C2%B7+Supabase+%C2%B7+Groq;%24+shipped+%E2%86%92+SnapFaceX%2C+Aria%2C+Musix;%24+echo+%22Build+in+silence%22" alt="Terminal-style intro: now building DripIQ">
 
 </div>
 
