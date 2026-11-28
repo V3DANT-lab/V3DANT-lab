@@ -85,7 +85,7 @@ vedant@devos ~ % ./profile.sh --live
 
 </td>
     <td width="28%" valign="top" align="center">
-      <img src="./assets/file_0000000052ec81fd93e3ff723e529221.jpg" width="100%" alt="It's all in your head — glitch portrait">
+      <img src="./assets/file_63dd66752e304e7b2c16f3c730311c03.jpg" width="100%" alt="It's all in your head — glitch portrait">
       <br>
       <sub><i>It's all in your head.</i></sub>
     </td>
