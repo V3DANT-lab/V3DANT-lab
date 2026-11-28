@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.gif" width="100%" alt="Hey there! Namaste! Welcome to my lab. I'm Vedant Waze. Full-Stack Engineer, AI Builder, Python Student, Shipping real products. GitHub, Instagram, Email and Portfolio icons. Terminal: whoami → vedant_waze; now building → DripIQ, AI fashion assistant; stack → React · Node · Supabase · Groq; shipped → SnapFaceX, Aria, Musix; echo &quot;Build in silence&quot;">
+<img src="./assets/hero.svg" width="100%" alt="Hey there! Namaste! Welcome to my lab. I'm Vedant Waze. Full-Stack Engineer, AI Builder, Python Student, Shipping real products. GitHub, Instagram, Email and Portfolio icons. Terminal: whoami → vedant_waze; now building → DripIQ, AI fashion assistant; stack → React · Node · Supabase · Groq; shipped → SnapFaceX, Aria, Musix; echo &quot;Build in silence&quot;">
 <br><br>
 
 <img src="https://img.shields.io/github/followers/V3DANT-lab?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=1E5B45&color=0F2A22" alt="Followers">
@@ -197,6 +197,28 @@ vedant@devos ~ % ./profile.sh --live
   <br>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=V3DANT-lab&show_icons=true&border_color=2A4F4B&bg_color=0B0D0E&title_color=22D3B0&icon_color=E2B33A&text_color=C9D1D3&include_all_commits=true" alt="GitHub stats">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V3DANT-lab&layout=compact&border_color=2A4F4B&bg_color=0B0D0E&title_color=22D3B0&text_color=C9D1D3" alt="Top languages">
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D0E,50:3D7F7A,100:0B0D0E&height=2" width="100%" alt="">
+
+## 🤝 Let's Build Something
+
+Have an idea, a collaboration, or an AI project that needs shipping? I'd love to hear about it.
+
+<p align="center">
+  <a href="https://github.com/V3DANT-lab"><img src="https://img.shields.io/badge/GitHub-23282B?style=for-the-badge&logo=github&logoColor=B8C2C6" alt="GitHub"></a>
+  <a href="https://instagram.com/v.edant_20"><img src="https://img.shields.io/badge/Instagram-23282B?style=for-the-badge&logo=instagram&logoColor=22D3B0" alt="Instagram"></a>
+  <a href="https://portfolio123v.netlify.app"><img src="https://img.shields.io/badge/Portfolio-23282B?style=for-the-badge&logo=vercel&logoColor=4ADE9A" alt="Portfolio"></a>
+  <a href="mailto:wazevedant5@gmail.com"><img src="https://img.shields.io/badge/Email-23282B?style=for-the-badge&logo=gmail&logoColor=E2B33A" alt="Email"></a>
+</p>
+
+<div align="center">
+
+*Build in silence, let the shipped product speak.*
+
+<img src="https://capsule-render.vercel.app/api?section=footer&type=slice&color=0:3D7F7A,45:1E5B45,100:0B0D0E&height=120" width="100%" alt="">
+
+</div>e=V3DANT-lab&layout=compact&border_color=2A4F4B&bg_color=0B0D0E&title_color=22D3B0&text_color=C9D1D3" alt="Top languages">
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D0E,50:3D7F7A,100:0B0D0E&height=2" width="100%" alt="">
